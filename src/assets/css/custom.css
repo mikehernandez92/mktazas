@@ -1,0 +1,12 @@
+/* 
+/* 
+/*  custom.css
+/*
+/*  If not using Gulp and Sass, add your custom CSS below then include it
+/*  in your page by adding a reference to assets/css/custom.css in the head of each page.
+/*
+*/
+
+.svg-icon {
+    filter: invert(100%) sepia(0%) saturate(7498%) hue-rotate(11deg) brightness(102%) contrast(107%);
+}

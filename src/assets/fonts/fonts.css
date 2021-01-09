@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Inter-UI-upright';
+    src:url('') format('woff2'),
+        url($archistico-woff-font-path) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
